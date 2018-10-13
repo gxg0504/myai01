@@ -29,5 +29,3 @@ plt.plot(X, y, 'b.')
 plt.axis([0, 2, 0, 15])
 plt.show()
 
-
-
